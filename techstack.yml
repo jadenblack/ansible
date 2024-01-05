@@ -1,7 +1,8 @@
 repo_name: jadenblack/ansible
 report_id: 2d4660f19b4f69f4585e768d5d01fac9
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T17:32:44+00:00'
+timestamp: '2024-01-05T08:22:37+00:00'
 requested_by: tpdownes
 provider: github
 branch: devel
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/jadenblack/ansible
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/jadenblack/ansible
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/ansible
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -60,6 +64,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/.github/RELEASE_NAMES.txt
   detection_source: ".github/RELEASE_NAMES.txt"
   last_updated_by: Matt Clay
   last_updated_on: 2023-06-29 17:18:15.000000000 Z
@@ -73,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/663/ElOjna20.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/lib/ansible/galaxy/data/apb/tests/ansible.cfg
   detection_source: lib/ansible/galaxy/data/apb/tests/ansible.cfg
   last_updated_by: Chris Houseknecht
   last_updated_on: 2016-10-28 02:16:22.000000000 Z
@@ -84,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/.azure-pipelines/azure-pipelines.yml
   detection_source: ".azure-pipelines/azure-pipelines.yml"
   last_updated_by: Sviatoslav Sydorenko
   last_updated_on: 2023-06-12 16:22:35.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/ansible
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -104,6 +112,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/units/requirements.txt
   detection_source: test/units/requirements.txt
   last_updated_by: Sloane Hertel
   last_updated_on: 2023-07-10 16:01:47.000000000 Z
@@ -130,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/4835/default_0a87fe83d3c6dc2bd452e7bf2428b32269c080d2.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/lib/ansible_test/_data/requirements/sanity.pylint.txt
   detection_source: test/lib/ansible_test/_data/requirements/sanity.pylint.txt
   last_updated_by: Matt Clay
   last_updated_on: 2023-02-01 20:40:36.000000000 Z
@@ -155,6 +165,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/.github/RELEASE_NAMES.txt
   detection_source: ".github/RELEASE_NAMES.txt"
   last_updated_by: Matt Clay
   last_updated_on: 2023-06-29 17:18:15.000000000 Z
@@ -166,12 +177,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/jadenblack/ansible
   detection_source: Repo Metadata
 - name: PyYAML
   website_url: http://pyyaml.org/wiki/PyYAML
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/lib/ansible_test/_data/requirements/ansible.txt
   detection_source: test/lib/ansible_test/_data/requirements/ansible.txt
   last_updated_by: Sloane Hertel
   last_updated_on: 2022-06-07 16:26:56.000000000 Z
@@ -184,6 +197,7 @@ tools:
   category: Application Utilities
   sub_category: Data Transfer
   image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/lib/ansible_test/_data/requirements/constraints.txt
   detection_source: test/lib/ansible_test/_data/requirements/constraints.txt
   last_updated_by: Matt Clay
   last_updated_on: 2021-09-21 01:39:07.000000000 Z
@@ -196,6 +210,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/ansible
   detection_source: Repo Metadata
 - name: docutils
   description: "http://t.co/lH6rcPxBja Service Outage and other informational alerts.\r\n\r\nFor
@@ -204,6 +219,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8480/LI68uG-2_normal.jpg
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/lib/ansible_test/_data/requirements/sanity.changelog.txt
   detection_source: test/lib/ansible_test/_data/requirements/sanity.changelog.txt
   last_updated_by: Sandra McCann
   last_updated_on: 2023-02-17 18:32:21.000000000 Z
@@ -214,6 +230,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7350/eaca159133a3901e24ddb407d1235c25_normal.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/lib/ansible_test/_data/requirements/sanity.mypy.txt
   detection_source: test/lib/ansible_test/_data/requirements/sanity.mypy.txt
   last_updated_by: Matt Clay
   last_updated_on: 2023-08-30 17:39:25.000000000 Z
@@ -222,6 +239,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10517/647025.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/sanity/code-smell/package-data.requirements.txt
   detection_source: test/sanity/code-smell/package-data.requirements.txt
   last_updated_by: Matt Clay
   last_updated_on: 2023-07-24 23:02:05.000000000 Z
@@ -234,6 +252,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20031/default_242158225818ea25f0ab9031a46e17f8ff8246cb.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/units/requirements.txt
   detection_source: test/units/requirements.txt
   last_updated_by: Sloane Hertel
   last_updated_on: 2023-07-10 16:01:47.000000000 Z
@@ -246,6 +265,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19884/default_b8be3f20d4af87021ae3618d5c50b72c985ea31f.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/integration/targets/ansible-test-integration-constraints/ansible_collections/ns/col/tests/integration/requirements.txt
   detection_source: test/integration/targets/ansible-test-integration-constraints/ansible_collections/ns/col/tests/integration/requirements.txt
   last_updated_by: Matt Clay
   last_updated_on: 2020-10-08 15:51:26.000000000 Z
@@ -258,6 +278,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19992/default_aa5b3e77340c2bb80cd8e6a59cd82909abcdcd63.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/units/requirements.txt
   detection_source: test/units/requirements.txt
   last_updated_by: Sloane Hertel
   last_updated_on: 2023-07-10 16:01:47.000000000 Z
@@ -270,6 +291,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20078/default_1b6ee2407cdedc6ad8878ee707164428880e399a.png
+  detection_source_url: https://github.com/jadenblack/ansible/blob/devel/test/units/requirements.txt
   detection_source: test/units/requirements.txt
   last_updated_by: Sloane Hertel
   last_updated_on: 2023-07-10 16:01:47.000000000 Z
