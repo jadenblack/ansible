@@ -2,7 +2,7 @@ repo_name: jadenblack/ansible
 report_id: 2d4660f19b4f69f4585e768d5d01fac9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:22:37+00:00'
+timestamp: '2024-02-29T19:03:04+00:00'
 requested_by: tpdownes
 provider: github
 branch: devel
@@ -131,7 +131,7 @@ tools:
   last_updated_by: Matt Davis
   last_updated_on: 2023-10-11 20:04:22.000000000 Z
 - name: isort
-  description: " A Python utility / library to sort imports"
+  description: A Python utility / library to sort imports
   website_url: https://pycqa.github.io/isort/
   license: MIT
   open_source: true
