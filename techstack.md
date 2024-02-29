@@ -3,20 +3,20 @@
 ## Tech Stack
 jadenblack/ansible is built on the following main stack:
 
-- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
-- [Python](https://www.python.org) – Languages
-- [Golang](http://golang.org/) – Languages
 - [C#](http://csharp.net) – Languages
+- [Golang](http://golang.org/) – Languages
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [isort](https://pycqa.github.io/isort/) – Code Review
-- [Pylint](https://www.pylint.org/) – Code Review
-- [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
-- [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Python](https://www.python.org) – Languages
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
+- [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
+- [Pylint](https://www.pylint.org/) – Code Review
+- [isort](https://pycqa.github.io/isort/) – Code Review
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -26,20 +26,20 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jadenblack/ansible is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4835/default_0a87fe83d3c6dc2bd452e7bf2428b32269c080d2.png' alt='isort'/> [isort](https://pycqa.github.io/isort/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4837/py.jpg' alt='Pylint'/> [Pylint](https://www.pylint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png' alt='Azure Pipelines'/> [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png' alt='Azure Pipelines'/> [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4837/py.jpg' alt='Pylint'/> [Pylint](https://www.pylint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4835/default_0a87fe83d3c6dc2bd452e7bf2428b32269c080d2.png' alt='isort'/> [isort](https://pycqa.github.io/isort/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/ansible](https://github.com/jadenblack/ansible)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|01/05/24 <br/>Report generated|
+|24<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
